@@ -1,6 +1,6 @@
 {
   "name": "cra",
-  "home": "https://artem-totality.github.io/react-shop",
+  "homepage": "https://artem-totality.github.io/react-shop",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
